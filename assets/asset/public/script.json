@@ -1,0 +1,109 @@
+{
+  "scripts": [
+    {
+      "isKeita": false,
+      "line": "",
+      "photo": ""
+    },
+    {
+      "isKeita": false,
+      "line": "",
+      "photo": ""
+    },
+    {
+      "isKeita": false,
+      "line": "Keita, tell me what is your memorable item in your childhood",
+      "photo": ""
+    },
+    {
+      "isKeita": true,
+      "line": "Well...",
+      "photo": ""
+    },
+    {
+      "isKeita": true,
+      "line": "A radio",
+      "photo": "radio"
+    },
+    {
+      "isKeita": false,
+      "line": "A radio?",
+      "photo": "radio"
+    },
+    {
+      "isKeita": true,
+      "line": "Yes",
+      "photo": "radio"
+    },
+    {
+      "isKeita": true,
+      "line": "Because I thought there were many singers inside radios",
+      "photo": "stage"
+    },
+    {
+      "isKeita": true,
+      "line": "Because I thought there were many singers inside radios",
+      "photo": "stage"
+    },
+    {
+      "isKeita": true,
+      "line": "and they took turns",
+      "photo": "stage"
+    },
+    {
+      "isKeita": false,
+      "line": "I see...",
+      "photo": "stage"
+    },
+    {
+      "isKeita": false,
+      "line": "",
+      "photo": "stage"
+    },
+    {
+      "isKeita": true,
+      "line": "Actually...I tried to find singers",
+      "photo": "stage"
+    },
+    {
+      "isKeita": false,
+      "line": "Really? How?",
+      "photo": "stage"
+    },
+    {
+      "isKeita": true,
+      "line": "Drop radios",
+      "photo": "stage"
+    },
+    {
+      "isKeita": false,
+      "line": "Drop radios?",
+      "photo": "stage"
+    },
+    {
+      "isKeita": true,
+      "line": "Yeah...Like this",
+      "photo": "drop"
+    },
+    {
+      "isKeita": false,
+      "line": "Wow",
+      "photo": "drop"
+    },
+    {
+      "isKeita": true,
+      "line": "That was true, and my mom got angry",
+      "photo": "drop"
+    },
+    {
+      "isKeita": true,
+      "line": "And...I could not find singers...",
+      "photo": "drop"
+    },
+    {
+      "isKeita": false,
+      "line": "",
+      "photo": ""
+    }
+  ]
+}
