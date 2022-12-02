@@ -34900,7 +34900,7 @@ return A.axc("Keita Fujiyama","Color 3",s,r)},
 $S:298}
 A.a7D.prototype={
 $0(){var s=this.a
-return s.d.B9("asset/public/mp3/home.mp3").aK(new A.a7A(s),t.P)},
+return s.d.B9("asset/public/mp3/interview.mp3").aK(new A.a7A(s),t.P)},
 $S:0}
 A.a7A.prototype={
 $1(a){var s=this.a
