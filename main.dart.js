@@ -34815,7 +34815,7 @@ i.toString
 p=t.E
 return A.kP(B.b2,A.a([l,A.wa(n,k,r,A.Bn(A.a([s,h,A.mT(A.a01(A.a([j,q,A.u5(n,A.Dm(B.zJ,B.h,A.jH(i)),B.aa,!1,n,n,n,n,n,n,n,n,n,n,new A.a6A(o),n,n,n,n,n,n)],p),B.b5,B.rx,B.bh),n,m*0.5)],p),B.b5,B.bg,B.fM),B.lu)],p),B.bt)}}
 A.a6v.prototype={
-$1(a){return this.a.d.B9("asset/public/mp3/music_"+B.ly.zh(3)+".mp3")},
+$1(a){return this.a.d.B9("asset/public/mp3/demonstration_"+B.ly.zh(3)+".mp3")},
 $S:283}
 A.a6w.prototype={
 $1(a){return this.a.d.cu(0)},
